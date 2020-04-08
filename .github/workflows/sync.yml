@@ -4,8 +4,8 @@ on:
     branchs:
       - master
 jobs:
-  deploy:
-    name: Deploy to GitHub Pages
+  sync:
+    name: Sync to Gitee
     runs-on: ubuntu-latest
     steps:
       - name: Sync to Gitee
