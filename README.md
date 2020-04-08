@@ -1,5 +1,7 @@
 # QQ互联基本接口封装
 
+[![Sync to Gitee](https://github.com/OhYee/qqconnect/workflows/Sync%20to%20Gitee/badge.svg)](https://gitee.com/OhYee/qqconnect)
+
 [QQ互联](https://connect.qq.com/)
 
 首先在前端跳转至 `LoginPage()` 返回的页面，进行登录
