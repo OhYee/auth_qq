@@ -1,6 +1,6 @@
 # QQ互联基本接口封装
 
-[![Sync to Gitee](https://github.com/OhYee/qqconnect/workflows/Sync%20to%20Gitee/badge.svg)](https://gitee.com/OhYee/qqconnect)
+[![Sync to Gitee](https://github.com/OhYee/auth_qq/workflows/Sync%20to%20Gitee/badge.svg)](https://gitee.com/OhYee/auth_qq) [![version](https://img.shields.io/github/v/tag/OhYee/auth_qq)](https://github.com/OhYee/auth_qq/tags)
 
 [QQ互联](https://connect.qq.com/)
 

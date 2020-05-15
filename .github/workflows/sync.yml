@@ -13,5 +13,5 @@ jobs:
         env:
             SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
         with:
-            source-repo: "git@github.com:OhYee/qqconnect.git"
-            destination-repo: "git@gitee.com:OhYee/qqconnect.git"
+            source-repo: "git@github.com:OhYee/auth_qq.git"
+            destination-repo: "git@gitee.com:OhYee/auth_qq.git"
