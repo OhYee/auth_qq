@@ -1,4 +1,4 @@
-module github.com/OhYee/qq_connect
+module github.com/OhYee/auth_qq
 
 go 1.14
 
